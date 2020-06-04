@@ -1,0 +1,19 @@
+@media screen and (max-width: 685px) {
+	
+  header {
+    display: flex;
+    justify-content: center;
+    min-width: 300px;
+    flex-direction: column;
+  }
+
+  #logo {
+    justify-content: center;
+    margin-left: 2px;
+    margin-bottom: 4px;
+  }
+
+  #searchForm{
+  	margin-bottom: 8px;
+  }
+}
